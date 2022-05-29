@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237721605523",
+    "project_id": "login-a1e43",
+    "storage_bucket": "login-a1e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237721605523:android:2b67301af32650d935c466",
+        "android_client_info": {
+          "package_name": "com.burakApp.googlesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237721605523-ivp7om6ormns364kvr2onnp1mot86ctr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burakApp.googlesign",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "237721605523-an3b7euihcr1drof0v61rl6e43p88nq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvKSZnnykvKELN7RJ39a8orJATcEDAsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237721605523-an3b7euihcr1drof0v61rl6e43p88nq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

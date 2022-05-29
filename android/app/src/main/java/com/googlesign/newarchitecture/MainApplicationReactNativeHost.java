@@ -1,4 +1,4 @@
-package com.googlesign.newarchitecture;
+package com.burakApp.googlesign.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.googlesign.BuildConfig;
-import com.googlesign.newarchitecture.components.MainComponentsRegistry;
-import com.googlesign.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.burakApp.googlesign.BuildConfig;
+import com.burakApp.googlesign.newarchitecture.components.MainComponentsRegistry;
+import com.burakApp.googlesign.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

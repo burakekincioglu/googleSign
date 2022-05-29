@@ -1,4 +1,4 @@
-package com.googlesign;
+package com.burakApp.googlesign;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
